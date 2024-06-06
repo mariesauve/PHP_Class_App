@@ -1,0 +1,98 @@
+body{
+    margin-right:100px;
+    margin-left: 30px;
+    padding-right: 80px;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center; /* Center content vertically */
+    height: 100vh; /* Ensure the body takes up the full height of the viewport */
+    margin: 0; /* Remove default margin */
+    text-align: center; /* Center-align text inside flex items */
+}
+
+
+
+.centrallyAligned {
+    text-align: center;
+    display:flex;
+    justify-content: center;
+}
+
+.menuSpan{
+    margin-top: 1%;
+    margin: 5px;
+}
+
+.menuAnchor{
+    margin-bottom: 10px;
+}
+
+footer{
+    display:flex;
+    margin-top:auto;
+    margin-bottom: 5px;
+    bottom:0;
+    width:100%;
+}
+
+table td, table th {
+    
+    padding: 15px;
+}
+img {
+    width:65px;
+    border-radius:20%;
+}
+
+
+h2{
+    margin-bottom: 10px;
+}
+
+a .btn btn-outline-success btn-md{
+   margin-left: 14rem; 
+   margin-bottom: 20px; 
+   box-shadow: .6px .6px .0px 1px black" 
+   
+}
+
+.container {
+      margin-left: 150px;
+}
+
+
+.cakeLiveSearch {
+    box-shadow: 10px 10px 5px lightblue;
+  }
+
+  .fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+  }
+
+  .fa-linkedin {
+    background: #007bb5;
+    color: white;
+  }
+  
+  .fa-youtube {
+    background: #bb0000;
+    color: white;
+  }
+  
+  .fa-instagram {
+    background: #125688;
+    color: white;
+  }
+  
+  .fa-pinterest {
+    background: #cb2027;
+    color: white;
+  }
