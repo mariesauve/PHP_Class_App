@@ -1,5 +1,5 @@
 # PHP_App
- A responsive web app using PHP.
+ A responsive web app using PHP with a navbar in the header, a footer and CRUD.
 
 ![main_page_php](https://github.com/mariesauve/PHP_Class_App/assets/149751752/af540c62-42c2-4382-b41a-577823b2f3d4)
 <br/>
